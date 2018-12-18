@@ -1,0 +1,9 @@
+body{
+	background-image: url(https://cdn1.vectorstock.com/i/1000x1000/29/40/question-mark-background-vector-18432940.jpg);
+	text-align: center;
+}
+
+
+.option{
+  margin: 15px;
+}
